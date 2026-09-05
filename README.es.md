@@ -6,11 +6,11 @@ Workflows en n8n, agentes de IA, y las integraciones que los conectan con las he
 
 **Stack**
 
-- **Automatización y workflows** → n8n, Python
-- **IA y agentes** → Claude, Gemini, agentes basados en LLM, MCP
-- **Datos y backend** → Supabase, Google Sheets, Django
-- **Herramientas de negocio e integraciones** → Holded, Brevo, Google Workspace, Shopify
-- **Infraestructura** → Hostinger, Docker, Kubernetes
+- **Automatización y workflows** → n8n, Python...
+- **IA y agentes** → Claude, Gemini, agentes basados en LLM, MCP...
+- **Datos y backend** → Supabase, Sheets, Django...
+- **Herramientas de negocio e integraciones** → Holded, Brevo, Google Workspace, Shopify...
+- **Infraestructura** → Hostinger, Docker, Kubernetes...
 
 **Cómo trabajo**
 
